@@ -114,6 +114,7 @@ I am actively seeking **entry-level roles / internships** in:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/naidu1999/
 - 📧 Email: rahulnaidut0711@gmail.com
+- Portfolio : https://rahul-naidu-ai-0onco2e.gamma.site/
 
 ---
 
