@@ -1,9 +1,14 @@
 # Hi 👋 I'm Telu Rahul Naidu
 
-🎓 Post Graduate Program (PGP, 2026) – Great Learning (in collaboration with The University of Texas at Austin & Great Lakes Institute of Management)
+🎓 Post Graduate Program (PGP, 2026) – Great Learning  
+(in collaboration with The University of Texas at Austin & Great Lakes Institute of Management)
+
 🎓 B.Tech in Computer Science Engineering (2022 Graduate)
+
 💼 Cognitive AI Developer at Wipro Technologies
+
 📊 Aspiring Data Scientist & Business Analyst
+
 💡 Passionate about Machine Learning, Data Analysis, and AI-driven solutions
 
 ---
