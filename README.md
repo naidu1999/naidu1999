@@ -254,7 +254,7 @@ Built an AI-powered Retrieval-Augmented Generation (RAG) application capable of 
 
 🚀 Feel free to explore my repositories, contribute to projects, or connect for collaboration.
 
-<img src="https://komarev.com/ghpvc/?username=RahulNaidu&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=naidu1999&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
