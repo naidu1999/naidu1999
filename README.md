@@ -201,22 +201,6 @@ Developed an AI-powered Retrieval-Augmented Generation system using **Merck Manu
 
 </p>
 ---
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=naidu1999&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
----
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/naidu1999/naidu1999/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
----
 
 # 📚 Currently Learning
 
