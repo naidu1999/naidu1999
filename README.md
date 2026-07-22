@@ -185,6 +185,38 @@ Developed an AI-powered Retrieval-Augmented Generation system using **Merck Manu
 **🛠 Tech Stack:** Python • NLP • RAG • LLMs • Vector Database
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naidu1999&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naidu1999&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=naidu1999&theme=midnight-purple&hide_border=true"/>
+
+</p>
+---
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=naidu1999&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+---
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/naidu1999/naidu1999/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+---
 
 # 📚 Currently Learning
 
