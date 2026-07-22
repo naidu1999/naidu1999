@@ -198,15 +198,15 @@ Built an AI-powered Retrieval-Augmented Generation (RAG) application capable of 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naidu1999&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naidu1999&show_icons=true&theme=midnight-purple"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu1999&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu1999&layout=compact&theme=midnight-purple"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu1999&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=naidu1999&theme=midnight-purple"/>
 
 </p>
 ---
